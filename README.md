@@ -49,7 +49,8 @@ Creating a small Angular app that returns results from the wikipedia api, but wi
 
 - [![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)](https://typescriptlang.com)
 - [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)](https://angular.io)
-- [![Semantic UI](https://img.shields.io/badge/-Semanti_UI-black?style=flat-square&logo=semantic-ui)](http://semantic-ui.com)
+- [![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)](https://bulma.io)
+
 
 
 API used was MediaWiki a great free api.
@@ -174,3 +175,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [twitter]: https://twitter.com/joshsevy
 [hackerrank]: https://www.hackerrank.com/joshuasevy
 
+<!-- Often used tech stack badges and links
+- [![Semantic UI](https://img.shields.io/badge/-Semanti_UI-black?style=flat-square&logo=semantic-ui)](http://semantic-ui.com)
+- [![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)](https://typescriptlang.com)
+- [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)](https://angular.io)
+- [![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)](https://bulma.io)
+
+ -->
