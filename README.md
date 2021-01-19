@@ -41,7 +41,8 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![SearchBar](.github/assets/search.png)
+![SearchBar](.github/assets/screen1.png)
 
 Creating a small Angular app that returns results from the wikipedia api, but with the power of Angular 11. This is a small application to further my practice with API calls and Angular programming patterns.
 
