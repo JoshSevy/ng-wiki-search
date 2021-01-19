@@ -3,6 +3,15 @@ import { Injectable } from '@angular/core';
 
 import { pluck } from 'rxjs/operators'
 
+interface WikiResponse {
+  query: {
+    search: {
+      pageid: number;
+      snippet: string;
+      title: string;
+    }[];
+  };
+}
 
 @Injectable({
   providedIn: 'root'
@@ -13,7 +22,7 @@ export class WikipediaService {
   constructor(private http: HttpClient) {}
 
   public search(term: string)  {
-    return this.http.get('https://en.wikipedia.org/w/api.php', {
+    return this.http.get<WikiResponse>('https://en.wikipedia.org/w/api.php', {
       params: {
         action: 'query',
         format: 'json',
