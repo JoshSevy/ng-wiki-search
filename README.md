@@ -6,22 +6,22 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/JoshSevy/ng-wiki-search">
+  <a href="https://github.com/JoshSevy/math-maniac">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center">Angular Wiki Mock Up</h3>
+  <h3 align="center">Math Maniac</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/JoshSevy/ng-wiki-search"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JoshSevy/math-maniac"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JoshSevy/ng-wiki-search">View Demo</a>
+    <a href="https://github.com/JoshSevy/math-maniac">View Demo</a>
     ·
-    <a href="https://github.com/JoshSevy/ng-wiki-search/issues">Report Bug</a>
+    <a href="https://github.com/JoshSevy/math-maniac/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JoshSevy/ng-wiki-search/issues">Request Feature</a>
+    <a href="https://github.com/JoshSevy/math-maniac/issues">Request Feature</a>
   </p>
 </p>
 
@@ -44,7 +44,7 @@
 ![SearchBar](.github/assets/search.png)
 ![SearchBar](.github/assets/screen1.png)
 
-Creating a small Angular app that returns results from the wikipedia api, but with the power of Angular 11. This is a small application to further my practice with API calls and Angular programming patterns.
+Using the power of Angular we are going to build a fast paced math game, getting to MVP we are gonna focus on using Reactive forms to handle user input and randomly generate some math problems. Plans are to continue to expand the interface and add functionality. Have fun making that brain stronger.
 
 ### Built With
 
@@ -52,10 +52,6 @@ Creating a small Angular app that returns results from the wikipedia api, but wi
 - [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)](https://angular.io)
 - [![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)](https://bulma.io)
 
-
-
-API used was MediaWiki a great free api.
-[MediaWiki Docs](https://www.mediawiki.org/wiki/Documentation)
 
 <!-- GETTING STARTED -->
 
@@ -75,7 +71,7 @@ npm install npm@latest -g
 
 
 ```sh
-git clone https://github.com/JoshSevy/ng-wiki-search.git
+git clone https://github.com/JoshSevy/math-maniac.git
 ```
 
 Install NPM packages
@@ -155,16 +151,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/JoshSevy/ng-wiki-search.svg?style=flat-square
-[contributors-url]: https://github.com/JoshSevy/ng-wiki-search/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/JoshSevy/ng-wiki-search.svg?style=flat-square
-[forks-url]: https://github.com/JoshSevy/ng-wiki-search/network/members
-[stars-shield]: https://img.shields.io/github/stars/JoshSevy/ng-wiki-search.svg?style=flat-square
-[stars-url]: https://github.com/JoshSevy/ng-wiki-search/stargazers
-[issues-shield]: https://img.shields.io/github/issues/JoshSevy/ng-wiki-search.svg?style=flat-square
-[issues-url]: https://github.com/JoshSevy/ng-wiki-search/issues
-[license-shield]: https://img.shields.io/github/license/JoshSevy/ng-wiki-search.svg?style=flat-square
-[license-url]: https://github.com/JoshSevy/ng-wiki-search/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/JoshSevy/math-maniac.svg?style=flat-square
+[contributors-url]: https://github.com/JoshSevy/math-maniac/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/JoshSevy/math-maniac.svg?style=flat-square
+[forks-url]: https://github.com/JoshSevy/math-maniac/network/members
+[stars-shield]: https://img.shields.io/github/stars/JoshSevy/math-maniac.svg?style=flat-square
+[stars-url]: https://github.com/JoshSevy/math-maniac/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JoshSevy/math-maniac.svg?style=flat-square
+[issues-url]: https://github.com/JoshSevy/math-maniac/issues
+[license-shield]: https://img.shields.io/github/license/JoshSevy/math-maniac.svg?style=flat-square
+[license-url]: https://github.com/JoshSevy/math-maniac/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
 <!-- Personal Definitions  -->
